@@ -1,7 +1,7 @@
 # Vibration_Detection_and_Classification_Project
 ENGIN 491/492 Project Materials
 
-I.	APPENDIX/ README
+I.	APPENDIX
 
 Troubleshooting Table
 Problem Observed	Possible Reason	Solution
