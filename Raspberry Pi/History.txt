@@ -1,0 +1,2712 @@
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:39:24:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:39:24:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:39:24:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:39:24:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:39:24:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:43:12:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : SHOVELING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : SHOVELING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : SHOVELING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : SHOVELING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:01:17:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:28:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:28:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:28:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:28:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:28:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:28:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:28:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:28:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:28:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : SHOVELING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : SHOVELING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : SHOVELING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : SHOVELING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : SHOVELING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:39:57:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:48:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:48:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:48:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:48:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:49:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:49:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:49:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:49:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =12:49:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:49:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:49:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:49:39:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : SHOVELING 
+ Time =12:51:18:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:00:23:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:15:58:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : SHOVELING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : SHOVELING 
+ Time =02:51:48:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:51:48:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:51:48:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : SHOVELING 
+ Time =02:51:48:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : RUNNING 
+ Time =02:51:48:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:51:48:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =02:51:48:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:13:01:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : SHOVELING 
+ Sencor-3 Prediction : SHOVELING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : JUMPING 
+ Sencor-2 Prediction : JUMPING 
+ Sencor-3 Prediction : JUMPING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WEIGHT DROP 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =11:34:32:AM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WEIGHT DROP 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WEIGHT DROP 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : WALKING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : WALKING 
+ Sencor-3 Prediction : WALKING 
+ Time =12:11:20:PM
+
+  -------Activity Detected -------
+ Sencor-1 Prediction : RUNNING 
+ Sencor-2 Prediction : RUNNING 
+ Sencor-3 Prediction : RUNNING 
+ Time =12:18:23:PM
